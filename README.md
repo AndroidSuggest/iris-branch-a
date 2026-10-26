@@ -46,6 +46,7 @@ Iris Gallery is designed to be a private, responsive, and customizable local med
 >- More fluent pinch to zoom for grid column amount change
 >- Dedicated icons for fast grid change icon and the fast grid change icon now toggles through all photo columns (1 - 7)
 >- Enhanced thumbnail loading, which results in better thumbnail quality across all column settings
+>- Replaced "Library > Videos" item and "Settings > Photos only" setting with a filter icon/function inside the media tab
 
 ---
 
